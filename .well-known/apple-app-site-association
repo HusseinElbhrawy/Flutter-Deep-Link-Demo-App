@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "TEAM_ID.com.example.deepLinkDemoApp"
+        ],
+        "components": [
+          {
+            "/": "/"
+          },
+          {
+            "/": "/products/*"
+          },
+          {
+            "/": "/profile"
+          },
+          {
+            "/": "/promo"
+          }
+        ]
+      }
+    ]
+  }
+}
