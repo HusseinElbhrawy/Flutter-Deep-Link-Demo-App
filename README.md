@@ -4,6 +4,10 @@ A small Android and iOS app showing how a link opens a Flutter screen with `app_
 
 **Start here:** To try the app in a simulator, use `deep-link-demo://app/promo?code=SUMMER20`. `example.com`, `TEAM_ID`, and `YOUR_SHA256_FINGERPRINT` are placeholders for the separate HTTPS setup. Verified links need a domain you control and the association files hosted on that domain. Keeping files in this repository does not publish them.
 
+#### Tutorial
+
+- [deep-linking-and-universal-links](https://github.com/HusseinElbhrawy/Flutter-Tutorial/blob/0d65fe36630180f173d05b9d105efb9683889dc0/16.OTHER/deep-linking-and-universal-links.md)
+
 ## Contents
 
 1. [Run the demo locally](#1-run-the-demo-locally)
